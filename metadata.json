@@ -1,0 +1,6 @@
+{
+  "name": "BANDAZE — Bridging the Gap of Healthcare",
+  "description": "Comprehensive healthcare platform connecting patients, verified doctors, and accredited clinics with the EZIOX Verification Center and AI-assisted workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
